@@ -21,7 +21,7 @@ The script saves the results in the `output.txt` and `risk.txt` files in the `/o
 
 ## Authors
 
-This script was created by [your name].
+This script was created by Can Yucel.
 
 ## Contributions
 
